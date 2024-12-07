@@ -25,7 +25,9 @@ The solution is built around a **scalable, secure, and modular architecture** de
 
 - **Authentication & Security:** User authentication will be managed through **OAuth2** or **JWT (JSON Web Tokens)**, ensuring secure access and role-based permissions (Admin, Alumni, Student). Security measures such as **HTTPS**, **data encryption**, **CSRF (Cross-Site Request Forgery) protection**, and **input validation** will be implemented to safeguard user data.  
 
-- **Cloud Deployment:** The platform will be hosted on reliable cloud services like **AWS**, **Azure**, or **Firebase** to ensure high availability, scalability, and fault tolerance. Continuous Integration/Continuous Deployment (CI/CD) pipelines using **GitHub Actions** or **Jenkins** will enable automated updates, reducing downtime and improving the development workflow.  
+- **Cloud Deployment:** The platform will be hosted on reliable cloud services like **AWS**, **Azure**, or **Firebase** to ensure high availability, scalability, and fault tolerance. Continuous Integration/Continuous Deployment (CI/CD) pipelines using **GitHub Actions** or **Jenkins** will enable automated updates, reducing downtime and improving the development workflow.
+  
+![Screenshot 2024-12-07 233106](https://github.com/user-attachments/assets/b87a3a95-8751-42ae-b98e-89767dea587a)
 
 
 ## Use Cases
